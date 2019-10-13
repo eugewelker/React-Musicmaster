@@ -1,0 +1,18 @@
+body{
+  background: #000;
+  color: #fff;
+}
+
+.App{
+  text-align:center;
+  padding:5px;
+}
+
+.App-title{
+  font-size:26px;
+}
+
+.Button{
+  width: auto;
+  text-align: center;
+}
