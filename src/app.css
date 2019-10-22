@@ -1,18 +1,22 @@
-body{
-  background: #000;
-  color: #fff;
-}
-
-.App{
-  text-align:center;
-  padding:5px;
-}
-
-.App-title{
-  font-size:26px;
-}
-
-.Button{
-  width: auto;
+.App {
   text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
 }
